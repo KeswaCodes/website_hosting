@@ -1,0 +1,157 @@
+.kode-mono-font {
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-size: 25px;
+  font-style: normal;
+}
+
+.quicksand-font {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.caveat-stmt {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.abel-regular {
+  font-family: "Abel", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+body {
+  align-items: center;
+  background-image: url('https://us.123rf.com/450wm/photodee/photodee1506/photodee150600060/40601478-blurred-of-cafe.jpg?ver=6');
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-color: #ffba08; */
+  /* opacity: 0.5; */
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
+  text-align: center;
+  /* overflow: scroll; */
+  
+}
+
+#bkg {
+  background-image: url('https://thumbs.dreamstime.com/z/interior-restaurant-cafe-transparent-glass-wall-toned-walls-empty-coworking-space-defocused-background-196376101.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  margin: 0 auto;
+}
+
+
+html {
+  width: 125rem;
+  margin: 0 auto;
+  /* background-color: #3a5a40; */
+}
+
+
+.caveat-font {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#nav-bar {
+
+  width: 100%;
+  height: 33px;
+  background-color: #eae2b7;
+  border-radius: 6px;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+
+.barriecito-regular {
+  font-family: "Barriecito", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#heading {
+  font-size: 60px;
+  color: #fffcf2;
+}
+
+
+.indie-flower-regular {
+  font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p#subheading {
+  font-size: 15px;
+  color: #fffcf2;
+  margin: 0;
+}
+
+
+
+section {
+  position: relative;
+  margin: 0 auto;
+}
+
+
+a.tags {
+  color: white;
+  font-size: 15px;
+}
+
+
+div#tag {
+  padding: 9px;
+  position: relative;
+  border: 1px solid white;
+  width: 25%;
+  margin: 50px auto;
+  height: 25px;
+  background-color: inherit;
+  transition:  color 2s, background-color 2s;
+  /* color: white; */
+
+  /* margin: 0 auto; */
+  
+}
+
+div#tag:hover {
+  color: black;
+  background-color: white;
+}
+
+
+#navigation {
+  border: 1px solid white;
+  margin: 0 auto;
+  width: 25%;
+  
+  height: 500px;
+  background-color: inherit;
+
+}
+
+a {
+  text-decoration: none;
+  transition: color 4s;
+
+}
+
+a:hover {
+  color: #432818;
+
+}
